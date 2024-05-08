@@ -12,4 +12,4 @@
 
 실습과제 4
 
-![Uploading bandicam 2024-05-08 20-15-03-726.jpg…]()
+![bandicam 2024-05-08 20-15-03-726](https://github.com/lgh2001217/opencv_ch11/assets/169230332/73009115-6712-4e03-ae9d-9f1c5c3244c6)
